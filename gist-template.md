@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex
 
 Regular expressions (regex) are a versatile tool for working with text. They let you search, match, and manipulate strings using different types patterns. Whether you're validating input, searching through logs, or extracting data, regex can make something complex much simpler with just a few characters.
 
